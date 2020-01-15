@@ -1,0 +1,14 @@
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.exe
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.deps.json
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.runtimeconfig.json
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.runtimeconfig.dev.json
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.dll
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.pdb
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorPatternLib.dll
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\bin\Debug\netcoreapp3.0\DecoratorPatternLib.pdb
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.csprojAssemblyReference.cache
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.AssemblyInfo.cs
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.csproj.CopyComplete
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.dll
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorDemoConsoleApp\obj\Debug\netcoreapp3.0\DecoratorDemoConsoleApp.pdb

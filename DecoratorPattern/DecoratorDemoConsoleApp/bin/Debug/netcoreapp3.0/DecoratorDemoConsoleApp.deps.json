@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DecoratorDemoConsoleApp/1.0.0": {
+        "dependencies": {
+          "DecoratorPatternLib": "1.0.0"
+        },
+        "runtime": {
+          "DecoratorDemoConsoleApp.dll": {}
+        }
+      },
+      "DecoratorPatternLib/1.0.0": {
+        "runtime": {
+          "DecoratorPatternLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratorDemoConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecoratorPatternLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

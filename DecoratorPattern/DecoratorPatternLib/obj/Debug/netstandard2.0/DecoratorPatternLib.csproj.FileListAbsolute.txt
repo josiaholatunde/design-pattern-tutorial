@@ -1,0 +1,8 @@
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\bin\Debug\netstandard2.0\DecoratorPatternLib.deps.json
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\bin\Debug\netstandard2.0\DecoratorPatternLib.dll
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\bin\Debug\netstandard2.0\DecoratorPatternLib.pdb
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\obj\Debug\netstandard2.0\DecoratorPatternLib.csprojAssemblyReference.cache
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\obj\Debug\netstandard2.0\DecoratorPatternLib.AssemblyInfoInputs.cache
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\obj\Debug\netstandard2.0\DecoratorPatternLib.AssemblyInfo.cs
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\obj\Debug\netstandard2.0\DecoratorPatternLib.dll
+C:\Users\Gloo\Documents\DesignPatterns\DecoratorPattern\DecoratorPatternLib\obj\Debug\netstandard2.0\DecoratorPatternLib.pdb

@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DecoratorPatternLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DecoratorPatternLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DecoratorPatternLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecoratorPatternLib/1.0.0": {
+      "type": "project",
+      "path": "../DecoratorPatternLib/DecoratorPatternLib.csproj",
+      "msbuildProject": "../DecoratorPatternLib/DecoratorPatternLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "DecoratorPatternLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Gloo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Gloo\\Documents\\DesignPatterns\\DecoratorPattern\\DecoratorDemoConsoleApp\\DecoratorDemoConsoleApp.csproj",
+      "projectName": "DecoratorDemoConsoleApp",
+      "projectPath": "C:\\Users\\Gloo\\Documents\\DesignPatterns\\DecoratorPattern\\DecoratorDemoConsoleApp\\DecoratorDemoConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\Gloo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gloo\\Documents\\DesignPatterns\\DecoratorPattern\\DecoratorDemoConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Gloo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Gloo\\Documents\\DesignPatterns\\DecoratorPattern\\DecoratorPatternLib\\DecoratorPatternLib.csproj": {
+              "projectPath": "C:\\Users\\Gloo\\Documents\\DesignPatterns\\DecoratorPattern\\DecoratorPatternLib\\DecoratorPatternLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
